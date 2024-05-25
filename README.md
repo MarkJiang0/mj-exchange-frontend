@@ -7,3 +7,4 @@ This project is a digital currency exchange frontend based on Next.js(React).
 - Integrated WebSocket for real-time market data.
 
 
+<img width="1669" alt="Screenshot 2024-04-14 at 12 22 03" src="https://github.com/MarkJiang0/mj-exchange-frontend/assets/170775799/3204658e-3715-4d9e-b2aa-f8377fad2622">
